@@ -17,7 +17,6 @@ I'm Gabriel, a software developer living on Córdoba, Argentina.
 -----------
 
 
-- Profesional contact 
 
 | Profesional contact                     | Profile     | Business contact     | Profile     |
 | ----------- | ----------- | ----------- | ----------- | 
