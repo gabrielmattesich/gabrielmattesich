@@ -1,6 +1,6 @@
 ### Hi there :shipit:
 
-I'm Gabriel, a software developer living on Córdoba, Argentina. 
+I'm Gabriel, a software developer living in Córdoba, Argentina. 
 > I'm currently working in a Software Factory in Argentina building solutions for a National Fintech.
 
 
