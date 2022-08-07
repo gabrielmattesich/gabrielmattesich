@@ -1,11 +1,24 @@
-### Hi there 👋 :shipit:
+### Hi there :shipit:
+
+I'm Gabriel, a software developer living on Córdoba, Argentina. 
+I'm currently working in a Software Factory from Argentina building solutions to a National Fintech.
 
 
 
-- 🔭 I’m currently working in a Software Factory from Argentina building solutions to a National Fintech.
+:book: I’m currently learning 
 
-- :book: I’m currently learning 
-   - AWS cloud practitioner essentials (Coursera) :heavy_check_mark: (2021)
-   - Blockchain: Understanding Its Uses and Implications (Edx)  :heavy_check_mark: (2021)
-   -  Blockchain Scalability and its Foundations in Distributed Systems (Coursera) :heavy_check_mark: (2022)
-   -  Smart Contracts (Coursera) 2022
+| Platform    | Course     | Year     |  Status     |
+| ----------- | ----------- | ----------- | ----------- |
+| Edx         | [Blockchain understanding its uses and implications](https://www.edx.org/es/course/blockchain-understanding-its-uses-and-implications)       | 2021 | :heavy_check_mark: |
+| Coursera   | [AWS cloud practitioner essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)       | 2021 | :heavy_check_mark: |
+| Coursera   | [Blockchain Scalability and its Foundations in Distributed Systems](https://www.coursera.org/learn/blockchain-scalability)       | 2022 | :hourglass: |
+| Coursera   | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)       | 2022 | :hourglass: |
+
+-----------
+
+
+- Profesional contact 
+
+| Profesional contact                     | Profile     | Business contact     | Profile     |
+| ----------- | ----------- | ----------- | ----------- | 
+| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/)       | Team work | [Team Work](https://www.linkedin.com/in/gabriel-mattesich/)   |
