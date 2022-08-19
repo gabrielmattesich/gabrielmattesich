@@ -16,10 +16,9 @@ I'm Gabriel, a software developer living in Córdoba, Argentina.
 
 -----------
 
+:office:  I'm currently working in a Software Factory in Argentina building solutions for a National Fintech.
 
-> I'm currently working in a Software Factory in Argentina building solutions for a National Fintech.
 
-
-| Professional contact                     | Profile     | 
-| ----------- | ----------- | 
-| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) |
+| Professional contact                     | Profile     |  Card Presentation |
+| ----------- | ----------- | ----------- | 
+| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) | [Curriculum Vitae](https://github.com/gabrielmattesich/gabrielmattesich/blob/main/GABRIEL%20MATTESICH_Venglish%20(1).pdf)|
