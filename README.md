@@ -13,12 +13,13 @@ I'm Gabriel, a software developer living in Córdoba, Argentina.
 | Coursera   | [AWS cloud practitioner essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)       | 2021 | :heavy_check_mark: |
 | Coursera   | [Blockchain Scalability and its Foundations in Distributed Systems](https://www.coursera.org/learn/blockchain-scalability)       | 2022 | :hourglass: |
 | Coursera   | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)       | 2022 | :hourglass: |
+| Coursera   | [Decentralized Finance (DeFi) Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)       | 2022 | :hourglass: |
 
 -----------
 
 :office:  I'm currently working in a Software Factory in Argentina building solutions for a National Fintech.
 
 
-| Professional contact                     | Profile     |  Card Presentation |
+| Professional contact                     | Profile     |  Web Site |
 | ----------- | ----------- | ----------- | 
-| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) | [Curriculum Vitae](https://github.com/gabrielmattesich/gabrielmattesich/blob/main/GABRIEL%20MATTESICH_Venglish%20(1).pdf)|
+| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) |       :clock3:   |
