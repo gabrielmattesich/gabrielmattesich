@@ -22,4 +22,4 @@ I'm Gabriel, a software developer living in Córdoba, Argentina.
 
 | Professional contact                     | Profile     |  Web Site |
 | ----------- | ----------- | ----------- | 
-| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) |       :clock3:   |
+| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) |       [Portfolio](https://gabrielmattesich.github.io/portafolio/)   |
