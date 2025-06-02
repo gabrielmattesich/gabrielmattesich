@@ -1,25 +1,26 @@
-### Hi there :shipit:
+# 👋 Hi, I'm Gabriel Mattesich 👨🏻‍💻
 
-I'm Gabriel, a software developer living in Córdoba, Argentina. 
+**Software Developer |  Argentina 🇦🇷**
 
+Apasionado por la tecnología, y entusiasta del aprendizaje continuo.
 
+---
 
+## 🚀 Sobre mí
 
-:book: I’m currently learning 
+- 🌱 Siempre aprendiendo sobre blockchain, cloud y nuevas tecnologías.
+- 🛠️ Interesado en sistemas distribuidos, contratos inteligentes y finanzas descentralizadas.
+- 🤝 Capacidad para trabajar de forma autónoma y gestionar proyectos de principio a fin.
+- 🧑‍💻 Acostumbrado a la autogestión y a la toma de decisiones independiente en entornos dinámicos.
+- 🚀 Proactivo y autónomo, con experiencia liderando y ejecutando tareas sin supervisión directa.
 
-| Platform    | Course     | Year     |  Status     |
-| ----------- | ----------- | ----------- | ----------- |
-| Edx         | [Blockchain understanding its uses and implications](https://www.edx.org/es/course/blockchain-understanding-its-uses-and-implications)       | 2021 | :heavy_check_mark: |
-| Coursera   | [AWS cloud practitioner essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)       | 2021 | :heavy_check_mark: |
-| Coursera   | [Blockchain Scalability and its Foundations in Distributed Systems](https://www.coursera.org/learn/blockchain-scalability)       | 2022 | :hourglass: |
-| Coursera   | [Smart Contracts](https://www.coursera.org/learn/smarter-contracts)       | 2022 | :hourglass: |
-| Coursera   | [Decentralized Finance (DeFi) Infrastructure](https://www.coursera.org/learn/decentralized-finance-infrastructure-duke)       | 2022 | :hourglass: |
+---
 
------------
+## 🌐 Contacto Profesional
 
-:office:  I'm currently working in a Software Factory in Argentina building solutions for a National Fintech.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Mattesich-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-mattesich/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-lightgrey?logo=githubpages)](https://gabrielmattesich.github.io/portafolio/)
 
+---
 
-| Professional contact                     | Profile     |  Web Site |
-| ----------- | ----------- | ----------- | 
-| Linkedin    | [Gabriel Mattesich](https://www.linkedin.com/in/gabriel-mattesich/) |       [Portfolio](https://gabrielmattesich.github.io/portafolio/)   |
+> “La tecnología es el puente entre las ideas y la realidad.”
