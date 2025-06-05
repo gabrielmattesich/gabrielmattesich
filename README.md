@@ -1,4 +1,4 @@
-# 👋 Gabriel Mattesich 👨🏻‍💻
+# Gabriel Mattesich 👨🏻‍💻
 
 **Software Developer |  Argentina 🇦🇷**
 
