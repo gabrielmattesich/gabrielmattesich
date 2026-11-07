@@ -19,7 +19,7 @@ Apasionado por la tecnología, y entusiasta del aprendizaje continuo.
 ## 🌐 Contacto Profesional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Mattesich-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-mattesich/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-lightgrey?logo=githubpages)](https://gabrielmattesich.github.io/portafolio/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-lightgrey?logo=githubpages)](https://gabrielmattesich.github.io/portfolio/)
 
 ---
 
